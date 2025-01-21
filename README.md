@@ -138,7 +138,6 @@ Machine Learning Specialists earn the highest at $171K, followed by Data Scienti
 Data Engineers top the scale with $207K, followed closely by Data Scientists at $200K,
 Machine Learning Specialists at $164K, Data Architects at $168K, and Data Analysts at
 $150K.
-
 Machine Learning Specialists and Data Scientists command the highest salaries at senior and
 expert levels, driven by the demand for advanced analytics and AI expertise. Data Architects,
 with no entry-level roles, require significant experience but offer the highest mid-level salaries
@@ -176,6 +175,8 @@ large companies, particularly in specialized roles.
 
 **● What are the top 5 paying countries for data professionals?**
 ![Data Professionals Salary Distribution ANALYSIS-8](https://github.com/user-attachments/assets/3848d075-6d35-4780-afc9-34f1fee9378c)
+
+SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/What%20are%20%20the%20top%205%20countries%20with%20heighest%20salaries%20for%20data%20professionals.sql
 
 The analysis of salary data across different countries reveals the following top-paying nations
 for data professionals:
