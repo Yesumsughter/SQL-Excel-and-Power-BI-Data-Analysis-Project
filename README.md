@@ -98,11 +98,9 @@ SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Pr
 **Average Salary**: Data Architects lead with an average salary of $160K, while Data Scientists
 and Machine Learning Specialists follow closely with $147K each. Data Engineers average
 $141K, and Data Analysts earn $112K on average.
-
 **Maximum Salary**: Data Scientists earn the highest maximum salary ($450K), followed by
 Data Analysts ($431K), Machine Learning Specialists ($424K), Data Architects ($376K), and
 Data Engineers ($324K).
-
 **Minimum Salary**: Data Architects have the highest minimum salary ($38K), while Data
 Scientists, Data Analysts, Machine Learning Specialists, and Data Engineers each have a
 minimum of $5K.
@@ -124,22 +122,18 @@ SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Pr
 
 The analysis of salary distribution across experience levels and job titles shows clear trends in
 how experience impacts earning potential:
-
 **● Entry Level**:
 Data Engineers and Machine Learning Specialists earn the highest at $88K, followed by
 Data Scientists at $82K, Data Analysts at $59K, and Data Architects with no reported
 salary, possibly due to the limited presence of entry-level roles in architecture.
-
 **● Mid-Level**:
 Data Architects lead with $150K, reflecting their high specialization, while Data
 Engineers earn $104K, Data Scientists $100K, and both Data Analysts and Machine
 Learning Specialists earn $99K.
-
 **● Senior Level:**
 Machine Learning Specialists earn the highest at $171K, followed by Data Scientists
 ($164K), Data Architects ($160K), Data Engineers ($152K), and Data Analysts
 ($126K).
-
 **● Expert Level:**
 Data Engineers top the scale with $207K, followed closely by Data Scientists at $200K,
 Machine Learning Specialists at $164K, Data Architects at $168K, and Data Analysts at
@@ -157,6 +151,8 @@ consider Data Architecture.
 
 **● The impact of company size and employment type on salary.**
 ![Data Professionals Salary Distribution ANALYSIS-9](https://github.com/user-attachments/assets/4a7793fc-5af5-4c45-b21a-0cd0365b5fbd)
+
+SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/Which%20company%20size%20pays%20the%20highest%20average%20salary%20for%20specifict%20job%20tiltes.sql
 
 **Large Companies:**
 Salaries are highest for Data Architects ($156K), followed by Machine Learning Specialists
