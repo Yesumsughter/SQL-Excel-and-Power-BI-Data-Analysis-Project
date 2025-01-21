@@ -57,19 +57,28 @@ consistency before analysis.
 5. The impact of company size and employment type on salary.
 6. What are the top 5 paying countries for data professionals?
 7. Which Job title has the highest growth trends over the years.
+   
 ## Dashboard
+
 ![Data PROFESSIONAL DASHBOARD dasborad](https://github.com/user-attachments/assets/d35e112c-a96b-4db1-a966-19f1bff00a98) 
+
+
 ## Insight Generated
 **What is the total number of Data Professionals**
+
  ![Data Professionals Salary Distribution ANALYSIS-2](https://github.com/user-attachments/assets/8eb764fc-92d4-4f18-a0ec-e13270a98d5a)
+ 
 SQL code (https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/Count%20of%20data%20professionals%20by%20title.sql)
 
 The dataset used for this analysis consisted of 3,755 entries, representing data professionals
 across various roles, including Data Engineers, Data Scientists, Data Analysts, Machine
 Learning Specialists, and Data Architects.
 
+
 **What is the distribution of job titles in the dataset?**
+
 ![Data Professionals Salary Distribution ANALYSIS-3](https://github.com/user-attachments/assets/3e520209-0e7a-4adb-a0a5-6658ef46d2e4)
+
 SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/Count%20of%20data%20professionals%20by%20title.sql
 
 The distribution of data professionals in the dataset indicated that Data Engineers were the most
@@ -90,7 +99,9 @@ Architects may provide targeted but lucrative paths for skilled professionals. O
 prevalence of these roles reflects organizational priorities in creating robust data pipelines and
 leveraging insights, with selective investment in advanced AI and system architecture.
 
-**● Salary statistics (average, minimum, and maximum) by job title over the years**
+
+**Salary statistics (average, minimum, and maximum) by job title over the years**
+
 ![Data sal-2](https://github.com/user-attachments/assets/65524368-f805-4990-92ca-d87d6930e1dc)
 
 SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/Average%2C%20min%2C%20and%20max%20salary%20by%20Job%20title.sql
@@ -98,9 +109,11 @@ SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Pr
 **Average Salary**: Data Architects lead with an average salary of $160K, while Data Scientists
 and Machine Learning Specialists follow closely with $147K each. Data Engineers average
 $141K, and Data Analysts earn $112K on average.
+
 **Maximum Salary**: Data Scientists earn the highest maximum salary ($450K), followed by
 Data Analysts ($431K), Machine Learning Specialists ($424K), Data Architects ($376K), and
 Data Engineers ($324K).
+
 **Minimum Salary**: Data Architects have the highest minimum salary ($38K), while Data
 Scientists, Data Analysts, Machine Learning Specialists, and Data Engineers each have a
 minimum of $5K.
@@ -115,29 +128,35 @@ Machine Learning may be more lucrative, but Data Engineering offers consistent o
 due to its steady demand.
 
 
-**● What is the distribution of salaries across experience levels and job titles.**
+**What is the distribution of salaries across experience levels and job titles.**
+
 ![Data Professionals Salary Distribution ANALYSIS-5](https://github.com/user-attachments/assets/7feffd06-d325-431f-8b8b-649b3dae0aa4)
 
 SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/Distribution%20of%20salaries%20across%20different%20experience%20levels%20by%20job%20titles.sql
 
 The analysis of salary distribution across experience levels and job titles shows clear trends in
 how experience impacts earning potential:
-**● Entry Level**:
+
+**Entry Level**:
 Data Engineers and Machine Learning Specialists earn the highest at $88K, followed by
 Data Scientists at $82K, Data Analysts at $59K, and Data Architects with no reported
 salary, possibly due to the limited presence of entry-level roles in architecture.
-**● Mid-Level**:
+
+**Mid-Level**:
 Data Architects lead with $150K, reflecting their high specialization, while Data
 Engineers earn $104K, Data Scientists $100K, and both Data Analysts and Machine
 Learning Specialists earn $99K.
-**● Senior Level:**
+
+**Senior Level:**
 Machine Learning Specialists earn the highest at $171K, followed by Data Scientists
 ($164K), Data Architects ($160K), Data Engineers ($152K), and Data Analysts
 ($126K).
-**● Expert Level:**
+
+**Expert Level:**
 Data Engineers top the scale with $207K, followed closely by Data Scientists at $200K,
 Machine Learning Specialists at $164K, Data Architects at $168K, and Data Analysts at
 $150K.
+
 Machine Learning Specialists and Data Scientists command the highest salaries at senior and
 expert levels, driven by the demand for advanced analytics and AI expertise. Data Architects,
 with no entry-level roles, require significant experience but offer the highest mid-level salaries
@@ -148,7 +167,7 @@ limited growth opportunities tied to their broader skill set. For career growth,
 prioritize Machine Learning or Data Science, while those seeking high mid-level pay might
 consider Data Architecture.
 
-**● The impact of company size and employment type on salary.**
+**The impact of company size and employment type on salary.**
 ![Data Professionals Salary Distribution ANALYSIS-9](https://github.com/user-attachments/assets/4a7793fc-5af5-4c45-b21a-0cd0365b5fbd)
 
 SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/Which%20company%20size%20pays%20the%20highest%20average%20salary%20for%20specifict%20job%20tiltes.sql
@@ -156,13 +175,16 @@ SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Pr
 **Large Companies:**
 Salaries are highest for Data Architects ($156K), followed by Machine Learning Specialists
 ($132K), Data Scientists ($128K), Data Engineers ($115K), and Data Analysts ($83K).
+
 **Medium Companies:**
 Data Architects lead again with $160K, followed by Machine Learning Specialists ($159K),
 Data Scientists ($155K), Data Engineers ($144K), and Data Analysts ($118K).
+
 **Small Companies:**
 Salaries drop significantly, with Machine Learning Specialists earning the highest at $87K,
 followed by Data Engineers ($81K), Data Scientists ($76K), Data Analysts ($62K), and no
 reported salary for Data Architects.
+
 Company size significantly influences salary levels, with medium companies offering the
 highest pay across most roles, likely due to their need to attract specialized talent. Data
 Architects earn the highest salaries in both large and medium companies, highlighting the value
@@ -173,18 +195,25 @@ on less specialized tasks, and the absence of Data Architect roles suggests limi
 for such specialization. Professionals aiming for higher salaries should consider medium or
 large companies, particularly in specialized roles.
 
-**● What are the top 5 paying countries for data professionals?**
+**What are the top 5 paying countries for data professionals?**
+
 ![Data Professionals Salary Distribution ANALYSIS-8](https://github.com/user-attachments/assets/3848d075-6d35-4780-afc9-34f1fee9378c)
 
 SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/What%20are%20%20the%20top%205%20countries%20with%20heighest%20salaries%20for%20data%20professionals.sql
 
 The analysis of salary data across different countries reveals the following top-paying nations
 for data professionals:
+
 ● USA: $461,539K
+
 ● United Kingdom: $14,945K
+
 ● Canada: $11,477K
+
 ● Germany: $4,944K
+
 ● Spain: $4,441
+
 The USA leads as the top-paying market for data professionals, with a significantly higher
 salary figure of $461.5 million, reflecting strong demand for data skills, particularly in tech
 industries and advanced sectors like AI. The salary gap between the USA and other countries
@@ -194,26 +223,34 @@ competitive salaries, the UK and Canada stand out in Europe and North America. D
 pay disparity, these countries still offer lucrative opportunities, with the salary differences
 reflecting global disparities influenced by market maturity and economic factors.
 
-**● Which Job title has the highest growth trends over the years.**
+**Which Job title has the highest growth trends over the years.**
+
+![Data Professionals Salary Distribution ANALYSIS-7](https://github.com/user-attachments/assets/3823e520-cf15-4b21-8c89-906a1711f000)
+
+SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/Which%20job%20tltle%20has%20the%20highest%20growth%20trend%20over%20the%20years.sql
 
 Growth trends of Data Professionals over the years (2020-2023)
+
 **2020:**
 In 2020, Machine Learning Specialists had the highest salary at $113K, followed closely by
 Data Scientists at $112K. Data Engineers earned $80K, and Data Analysts had the lowest salary
 at $56K. Data Architects had no data available, indicating limited representation or new
 emergence in the market.
+
 **2021:**
 In 2021, Data Architects saw a significant jump to $170K, indicating a high demand for
 specialized roles in data architecture. Meanwhile, salaries for Machine Learning Specialists and
 Data Scientists increased slightly to $83K and $100K, respectively. Data Engineers earned
 $97K, and Data Analysts had a notable increase to $82K, showing overall salary growth across
 all roles.
+
 **2022:**
 In 2022, Machine Learning Specialists and Data Scientists saw substantial increases, reaching
 $141K each, reflecting the growing demand for AI and advanced data analytics skills. Data
 Engineers also experienced growth to $137K, while Data Analysts reached $110K. Data
 Architects saw a slight dip to $163K, suggesting some market stabilization after their initial
 surge.
+
 **2023:**
 By 2023, Machine Learning Specialists had the highest salary increase, reaching $164K, while
 Data Scientists saw a comparable rise to $163K. Data Engineers earned $150K, continuing their
