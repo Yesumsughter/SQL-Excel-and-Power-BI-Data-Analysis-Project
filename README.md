@@ -60,7 +60,8 @@ written to answer the questions
 6. What are the top 5 paying countries for data professionals?
 7. Which Job title has the highest growth trends over the years.
 ## Dashboard
-![Data Professionals Salary Distribution-1](https://github.com/user-attachments/assets/84d83ead-bd73-4727-a1e7-5f40518b02df)
+![Data PROFESSIONAL DASHBOARD dasborad](https://github.com/user-attachments/assets/d35e112c-a96b-4db1-a966-19f1bff00a98) 
+
 
 ## Conclusion
 The analysis of salary trends and job distributions among data professionals reveals key
