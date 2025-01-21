@@ -61,6 +61,11 @@ written to answer the questions
 7. Which Job title has the highest growth trends over the years.
 ## Dashboard
 ![Data PROFESSIONAL DASHBOARD dasborad](https://github.com/user-attachments/assets/d35e112c-a96b-4db1-a966-19f1bff00a98) 
+## Insight Generated
+ What is the total number of Data Professionals
+ ![Data Professionals Salary Distribution ANALYSIS-2](https://github.com/user-attachments/assets/8eb764fc-92d4-4f18-a0ec-e13270a98d5a)
+ SQL code
+
 
 
 ## Conclusion
