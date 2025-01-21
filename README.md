@@ -116,6 +116,8 @@ due to its steady demand.
 **● What is the distribution of salaries across experience levels and job titles.**
 ![Data Professionals Salary Distribution ANALYSIS-5](https://github.com/user-attachments/assets/7feffd06-d325-431f-8b8b-649b3dae0aa4)
 
+SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/Distribution%20of%20salaries%20across%20different%20experience%20levels%20by%20job%20titles.sql
+
 The analysis of salary distribution across experience levels and job titles shows clear trends in
 how experience impacts earning potential:
 **● Entry Level**:
@@ -142,7 +144,83 @@ and Data Scientists experiencing the largest jumps, highlighting their long-term
 potential. In contrast, Data Analysts show relatively lower salaries across all levels, reflecting
 limited growth opportunities tied to their broader skill set. For career growth, professionals may
 prioritize Machine Learning or Data Science, while those seeking high mid-level pay might
-consider Data Architecture
+consider Data Architecture.
+
+**● The impact of company size and employment type on salary.**
+![Data Professionals Salary Distribution ANALYSIS-9](https://github.com/user-attachments/assets/4a7793fc-5af5-4c45-b21a-0cd0365b5fbd)
+
+**Large Companies:**
+Salaries are highest for Data Architects ($156K), followed by Machine Learning Specialists
+($132K), Data Scientists ($128K), Data Engineers ($115K), and Data Analysts ($83K).
+**Medium Companies:**
+Data Architects lead again with $160K, followed by Machine Learning Specialists ($159K),
+Data Scientists ($155K), Data Engineers ($144K), and Data Analysts ($118K).
+**Small Companies:**
+Salaries drop significantly, with Machine Learning Specialists earning the highest at $87K,
+followed by Data Engineers ($81K), Data Scientists ($76K), Data Analysts ($62K), and no
+reported salary for Data Architects.
+Company size significantly influences salary levels, with medium companies offering the
+highest pay across most roles, likely due to their need to attract specialized talent. Data
+Architects earn the highest salaries in both large and medium companies, highlighting the value
+of their specialized skills. While medium companies lead in salaries, large companies still offer
+competitive pay, especially for Machine Learning Specialists and Data Scientists, due to their
+resources. Small companies offer lower salaries, possibly due to budget constraints or a focus
+on less specialized tasks, and the absence of Data Architect roles suggests limited opportunities
+for such specialization. Professionals aiming for higher salaries should consider medium or
+large companies, particularly in specialized roles.
+
+**● What are the top 5 paying countries for data professionals?**
+![Data Professionals Salary Distribution ANALYSIS-8](https://github.com/user-attachments/assets/3848d075-6d35-4780-afc9-34f1fee9378c)
+
+The analysis of salary data across different countries reveals the following top-paying nations
+for data professionals:
+● USA: $461,539K
+● United Kingdom: $14,945K
+● Canada: $11,477K
+● Germany: $4,944K
+● Spain: $4,441
+The USA leads as the top-paying market for data professionals, with a significantly higher
+salary figure of $461.5 million, reflecting strong demand for data skills, particularly in tech
+industries and advanced sectors like AI. The salary gap between the USA and other countries
+highlights higher pay in the USA. This could be due to factors such as a larger tech market,
+higher cost of living, and greater demand. While the UK, Canada, Germany, and Spain offer
+competitive salaries, the UK and Canada stand out in Europe and North America. Despite the
+pay disparity, these countries still offer lucrative opportunities, with the salary differences
+reflecting global disparities influenced by market maturity and economic factors.
+
+**● Which Job title has the highest growth trends over the years.**
+
+Growth trends of Data Professionals over the years (2020-2023)
+**2020:**
+In 2020, Machine Learning Specialists had the highest salary at $113K, followed closely by
+Data Scientists at $112K. Data Engineers earned $80K, and Data Analysts had the lowest salary
+at $56K. Data Architects had no data available, indicating limited representation or new
+emergence in the market.
+**2021:**
+In 2021, Data Architects saw a significant jump to $170K, indicating a high demand for
+specialized roles in data architecture. Meanwhile, salaries for Machine Learning Specialists and
+Data Scientists increased slightly to $83K and $100K, respectively. Data Engineers earned
+$97K, and Data Analysts had a notable increase to $82K, showing overall salary growth across
+all roles.
+**2022:**
+In 2022, Machine Learning Specialists and Data Scientists saw substantial increases, reaching
+$141K each, reflecting the growing demand for AI and advanced data analytics skills. Data
+Engineers also experienced growth to $137K, while Data Analysts reached $110K. Data
+Architects saw a slight dip to $163K, suggesting some market stabilization after their initial
+surge.
+**2023:**
+By 2023, Machine Learning Specialists had the highest salary increase, reaching $164K, while
+Data Scientists saw a comparable rise to $163K. Data Engineers earned $150K, continuing their
+steady growth. Data Architects' salaries slightly decreased to $156K, while Data Analysts
+continued their gradual rise to $119K, maintaining a consistent but slower growth trend.
+Over the four years, Machine Learning Specialists and Data Scientists exhibited the highest
+salary growth, driven by increasing demand for AI and advanced analytics. Data Engineers also
+saw significant growth, emphasizing the importance of data infrastructure. Data Architects
+experienced initial strong growth but stabilized in recent years. Data Analysts had steady,
+slower salary increases, reflecting sustained demand but less specialization. These trends
+highlight the evolving market demands, with a focus on advanced technologies and specialized
+roles like Machine Learning and Data Science.
+
 ## Conclusion
 The analysis of salary trends and job distributions among data professionals reveals key
 insights into the evolving landscape of the data industry. The demand for specialized roles like
