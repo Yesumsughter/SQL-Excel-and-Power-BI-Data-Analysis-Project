@@ -26,17 +26,17 @@ using a combination of tools.
 ## Tools used for analysis
 The tools used for this analysis are Microsoft Excel, Microsoft PowerBI and SQL Server
 ## Data Cleaning and Transformation
-Excel: Missing values were identified and handled appropriately. Duplicates
+**Excel**: Missing values were identified and handled appropriately. Duplicates
 were removed, and data types were standardised.
 
-Power BI: The dataset was loaded for transformation, including renaming
+**Power BI**: The dataset was loaded for transformation, including renaming
 columns and replacing of values to standardise the data set
 ## Data Analysis
-SQL: Structured Query Language (SQL) was used to perform in-depth analysis,
+**SQL Server**: Structured Query Language (SQL) was used to perform in-depth analysis,
 answering each of the key questions with queries designed to explore
 relationships, compute aggregates, and identify trends.
 ## Visualization
-Power BI: Charts and dashboards were created to visually represent insights,
+**Power BI**: Charts and dashboards were created to visually represent insights,
 such as salary trends over time, distributions, and comparisons across categories
 like job titles, experience levels, and company sizes.
 ## Maintaining Data Integrity
@@ -45,13 +45,11 @@ preserving the reliability and trustworthiness of the dataset
 ## Data Source
 https://docs.google.com/spreadsheets/d/12JEfttQhnGC4gclIpfxAESPQQVu54kN3VCq_p0qyKpw/edit?usp=sharing
 
-The dataset used for this analysis was sourced from Kaggle, a platform offering a wide range of
+The dataset used for this analysis was sourced from Kaggle.com, a platform offering a wide range of
 publicly available datasets. Kaggle’s datasets provide a rich and reliable foundation for data
 analysis and insights. This particular dataset was pre-processed to ensure quality and
 consistency before analysis.
 ## Questions to be answered
-The following questions were answered from the data set with visualisation and SQL codes
-written to answer the questions
 1. What is the total number of Data Professionals
 2. What is the distribution of job titles in the dataset?
 3. Salary statistics (average, minimum, and maximum) by job title over the years
@@ -62,12 +60,17 @@ written to answer the questions
 ## Dashboard
 ![Data PROFESSIONAL DASHBOARD dasborad](https://github.com/user-attachments/assets/d35e112c-a96b-4db1-a966-19f1bff00a98) 
 ## Insight Generated
- What is the total number of Data Professionals
+** What is the total number of Data Professionals**
  ![Data Professionals Salary Distribution ANALYSIS-2](https://github.com/user-attachments/assets/8eb764fc-92d4-4f18-a0ec-e13270a98d5a)
- SQL code
+SQL code (https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/Count%20of%20data%20professionals%20by%20title.sql)
 
+The dataset used for this analysis consisted of 3,755 entries, representing data professionals
+across various roles, including Data Engineers, Data Scientists, Data Analysts, Machine
+Learning Specialists, and Data Architects.
 
-
+**What is the distribution of job titles in the dataset?**
+![Data Professionals Salary Distribution ANALYSIS-3](https://github.com/user-attachments/assets/3e520209-0e7a-4adb-a0a5-6658ef46d2e4)
+SQL CODE 
 ## Conclusion
 The analysis of salary trends and job distributions among data professionals reveals key
 insights into the evolving landscape of the data industry. The demand for specialized roles like
