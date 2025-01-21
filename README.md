@@ -93,7 +93,7 @@ leveraging insights, with selective investment in advanced AI and system archite
 **● Salary statistics (average, minimum, and maximum) by job title over the years**
 ![Data sal-2](https://github.com/user-attachments/assets/65524368-f805-4990-92ca-d87d6930e1dc)
 
-
+SQL CODE https://github.com/Yesumsughter/SQL-Excel-and-Power-BI-Data-Analysis-Project/blob/main/Average%2C%20min%2C%20and%20max%20salary%20by%20Job%20title.sql
 **Average Salary**: Data Architects lead with an average salary of $160K, while Data Scientists
 and Machine Learning Specialists follow closely with $147K each. Data Engineers average
 $141K, and Data Analysts earn $112K on average.
@@ -111,6 +111,38 @@ high demand, their comparatively lower salaries suggest their work is more opera
 specialized. For professionals seeking higher pay, roles in Data Science, Architecture, or
 Machine Learning may be more lucrative, but Data Engineering offers consistent opportunities
 due to its steady demand.
+
+
+**● What is the distribution of salaries across experience levels and job titles.**
+![Data Professionals Salary Distribution ANALYSIS-5](https://github.com/user-attachments/assets/7feffd06-d325-431f-8b8b-649b3dae0aa4)
+
+The analysis of salary distribution across experience levels and job titles shows clear trends in
+how experience impacts earning potential:
+**● Entry Level**:
+Data Engineers and Machine Learning Specialists earn the highest at $88K, followed by
+Data Scientists at $82K, Data Analysts at $59K, and Data Architects with no reported
+salary, possibly due to the limited presence of entry-level roles in architecture.
+**● Mid-Level**:
+Data Architects lead with $150K, reflecting their high specialization, while Data
+Engineers earn $104K, Data Scientists $100K, and both Data Analysts and Machine
+Learning Specialists earn $99K.
+**● Senior Level:**
+Machine Learning Specialists earn the highest at $171K, followed by Data Scientists
+($164K), Data Architects ($160K), Data Engineers ($152K), and Data Analysts
+($126K).
+**● Expert Level:**
+Data Engineers top the scale with $207K, followed closely by Data Scientists at $200K,
+Machine Learning Specialists at $164K, Data Architects at $168K, and Data Analysts at
+$150K.
+Machine Learning Specialists and Data Scientists command the highest salaries at senior and
+expert levels, driven by the demand for advanced analytics and AI expertise. Data Architects,
+with no entry-level roles, require significant experience but offer the highest mid-level salaries
+due to their specialized skills. Salaries generally increase with experience, with Data Engineers
+and Data Scientists experiencing the largest jumps, highlighting their long-term earning
+potential. In contrast, Data Analysts show relatively lower salaries across all levels, reflecting
+limited growth opportunities tied to their broader skill set. For career growth, professionals may
+prioritize Machine Learning or Data Science, while those seeking high mid-level pay might
+consider Data Architecture
 ## Conclusion
 The analysis of salary trends and job distributions among data professionals reveals key
 insights into the evolving landscape of the data industry. The demand for specialized roles like
